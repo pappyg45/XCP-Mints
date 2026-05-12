@@ -18,6 +18,7 @@ In the fall of 2016, the ADL teamed with Pepe creator Matt Furie to form a #Save
   "social": [
     { "type": "X", "data": "https://x.com/GMONEYPEPE" },
     { "type": "Website", "data": "https://www.adl.org/resources/hate-symbol/pepe-frog" },
+    { "type": "Wayback Machine", "data": "https://web.archive.org/web/20260426214521/https://www.adl.org/resources/hate-symbol/pepe-frog" },
     { "type": "The PEPE Project", "data": "https://pepeproject.com/"}
   ]
 }
