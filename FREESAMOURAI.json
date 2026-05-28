@@ -6,9 +6,11 @@
   "description": "In April 2024, two Bitcoin software developers, Keonne Rodriguez and William "Bill" Lonergan Hill, were violently arrested in their homes in a pre-dawn militarized raid by the FBI for running Samourai Wallet—a non-custodial Bitcoin wallet—despite no prior warnings and full compliance with the law as they and their advisors understood it.They spent the next year and a half in the crippling uncertainty of home arrest, fighting against an adversary with unlimited resources. Keonne was sentenced on November 6, 2025, to the maximum five years in prison, plus an additional fine of $250,000, plus three years of supervised release. Bill was sentenced to four years in prison on November 19, 2025. He will also be responsible for a $250,000 fine, and three years of supervised release. Both men are facing serious time in jail for writing code that supported the privacy and security of Bitcoin users.",
   "Artist": "Pepenardo",
   "social": [
-    { "type": "Artist X", "data": "https://x.com/PepenardoStudio" },
     { "type": "Website", "data": "https://billandkeonne.org/" },
+    { "type": "Donate Bitcoin", "data": "https://pay.zaprite.com/pl_JpxtkLv95T/" },
+    { "type": "Donate Give Send Go", "data": "https://www.givesendgo.com/billandkeonne" },
     { "type": "Sign the Petition", "data": "https://www.change.org/p/stand-up-for-freedom-pardon-the-innocent-coders-jailed-for-building-privacy-tools" },
+    { "type": "Artist X", "data": "https://x.com/PepenardoStudio" },
     { "type": "The PEPE Project", "data": "https://pepeproject.com/"}
   ]
 }
